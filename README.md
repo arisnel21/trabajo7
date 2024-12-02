@@ -1,2 +1,2 @@
-# trabajo7
-Gestion de Inventario
+# Gestor_de_Inventario
+trabajo7_Usach
